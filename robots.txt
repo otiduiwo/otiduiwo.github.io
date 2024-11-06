@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://otiduiwo.github.io/LkD/sitemap_index.txt
+Sitemap: https://otiduiwo.github.io/ang/sitemap_index.txt
+Sitemap: https://otiduiwo.github.io/vOn/sitemap_index.txt
+Sitemap: https://otiduiwo.github.io/yNq/sitemap_index.txt
